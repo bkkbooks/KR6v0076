@@ -1,0 +1,237 @@
+canonical_identifier: bkk:krp/KR6v0076/v1
+canonical_location: https://kanripo.org/bkk/KR6v0076/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨度三昧經
+  identifiers:
+    alt_id:
+    - W07n0063
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0063.xml
+    old_id: ZW07n0063
+  edition:
+    short: bkk
+editions:
+- short: 藏外
+  label: 藏外
+  source_xml_id: wit.orig
+- short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0076_000.yaml, hash: 'sha256:ad8a4c1b873159a41b93fec7f3e8e1293a2b67f3f283906d0509c9581e15b921'}
+  - {seq: 1, filename: KR6v0076_001.yaml, hash: 'sha256:1d3f6a270a840d6c22f2653a32be986a73d108f62279c1ccc5d87926b2bd01e7'}
+  - {seq: 2, filename: KR6v0076_002.yaml, hash: 'sha256:af80e9bb8fbbf95d4139d383575181b6f891688186b5c31f1b0cde429638d9bf'}
+  - {seq: 3, filename: KR6v0076_003.yaml, hash: 'sha256:c77f3de36e38a86abb57c19b70d76833a3da88c40d1776790a717c9bd75dc858'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0076_000.markers.yaml, hash: 'sha256:1d57e324571fbfc7a11231e5b78ff4adf8c664f78271e30207fa15d4c2260757'}
+  - {seq: 1, role: markers, filename: assets/KR6v0076_001.markers.yaml, hash: 'sha256:3ff033fc41a3af47a2889351e0881e4f2eb136c5d6365807236c2e2f51c1feb9'}
+  - {seq: 2, role: markers, filename: assets/KR6v0076_002.markers.yaml, hash: 'sha256:ce437976fb44e0407b96964f758ee1641d6a60fde684d30e12856a334a784bba'}
+  - {seq: 3, role: markers, filename: assets/KR6v0076_003.markers.yaml, hash: 'sha256:9432f385b9fdf240e1fd7b88deca3e0593b0a2c936a27e1b3a64021c8b391ed2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0076_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0076_ZW_000-mulu-2
+    span:
+    - front
+    - 2574
+    - 2574
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0076_ZW_000-mulu-3
+    span:
+    - front
+    - 2576
+    - 2576
+  label: 卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0076_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 7030
+  label: 佛說淨度三昧經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0076_ZW_001-mulu-1
+    span:
+    - body
+    - 7030
+    - 7030
+  label: 卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0076_ZW_002-juan-start
+    span:
+    - body
+    - 0
+    - 8636
+  label: 淨度三昧經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0076_ZW_002-mulu-1
+    span:
+    - body
+    - 8636
+    - 8636
+  label: 卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-juan-start
+    span:
+    - body
+    - 0
+    - 15293
+  label: 佛說淨度經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-1
+    span:
+    - body
+    - 7672
+    - 7672
+  label: 附：《淨度三昧經》的編纂與撰述
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-2
+    span:
+    - body
+    - 7688
+    - 7688
+  label: 序言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-3
+    span:
+    - body
+    - 7956
+    - 7956
+  label: 一、編纂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-4
+    span:
+    - body
+    - 7959
+    - 7959
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-5
+    span:
+    - body
+    - 8111
+    - 8111
+  label: 1、從竺法護所譯經典的引文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-6
+    span:
+    - body
+    - 10973
+    - 10973
+  label: 2、與竺法護譯《修行道地經》地獄品的對照
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-7
+    span:
+    - body
+    - 11707
+    - 11707
+  label: 3、其他經典、外典
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-8
+    span:
+    - body
+    - 12643
+    - 12643
+  label: 二、關於撰述
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-9
+    span:
+    - body
+    - 12648
+    - 12648
+  label: 1、關於思想內容
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-10
+    span:
+    - body
+    - 12855
+    - 12855
+  label: 2、關於《淨度經》三十地獄說之「撰述」
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-11
+    span:
+    - body
+    - 13811
+    - 13811
+  label: 三、關於典故
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0076_ZW_003-mulu-12
+    span:
+    - body
+    - 15010
+    - 15010
+  label: 結束語
+  type: mulu
+  level: 1
+hash: sha256:e5bd3a367ab1f938a81a57c9d38117e54288afbb6a69f68d6352bb15255e3f5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
