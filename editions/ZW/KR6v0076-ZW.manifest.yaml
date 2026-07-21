@@ -19,12 +19,12 @@ metadata:
     short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0076_000-ZW.yaml, hash: 'sha256:4c2f62fee3187ad5f70d1e5fa15cd85b578c3998709d59cc7df2bc7e1ead3a92'}
+  - {seq: 0, filename: KR6v0076_000-ZW.yaml, hash: 'sha256:c32197c60fdc574cd4fec28dc49ad1e5362b466cc723326e2c81bd1acb151a2c'}
   - {seq: 1, filename: KR6v0076_001-ZW.yaml, hash: 'sha256:8cfd8c0c6f0aae600986c4923f141c0847b10b9a4cbff2d79a05b829be3934b2'}
   - {seq: 2, filename: KR6v0076_002-ZW.yaml, hash: 'sha256:9affcd885629e726885763b4e225cca172ba7192b89a06e6170f31288814fa03'}
   - {seq: 3, filename: KR6v0076_003-ZW.yaml, hash: 'sha256:010e26c0ed385372f2ef32221ab94e8b46e6386d51de192f37018b1da6bce497'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0076_000-ZW.markers.yaml, hash: 'sha256:903f97fe94fe3e6255d9c17a5710642cda7dfd75462a319094d04f807d9f9c84'}
+  - {seq: 0, role: markers, filename: assets/KR6v0076_000-ZW.markers.yaml, hash: 'sha256:9571fffcc55e3c627d16bb9ced99457edba0fe0d405fd3146375c803811e9d45'}
   - {seq: 1, role: markers, filename: assets/KR6v0076_001-ZW.markers.yaml, hash: 'sha256:3979ba151da6f63af21b31cf188752ab5814b65cb7ba3e3ce1bb7db65e46fede'}
   - {seq: 2, role: markers, filename: assets/KR6v0076_002-ZW.markers.yaml, hash: 'sha256:7a07ba60748c09465d2cd4a9f49a312e0d50ada46e23968c3acbd22df8c556e9'}
   - {seq: 3, role: markers, filename: assets/KR6v0076_003-ZW.markers.yaml, hash: 'sha256:3e9ffcc081394294ab20dc3b6bb4faca1b91bce6b8d53538dbf78fba9787104d'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0076_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0076_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 2574
     - 2574
   label: 錄文
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0076_ZW_000-mulu-3
     span:
-    - front
+    - body
     - 2576
     - 2576
   label: 卷第一
@@ -229,4 +229,4 @@ table_of_contents:
   label: 結束語
   type: mulu
   level: 1
-hash: sha256:84a6018a737bfd794dc5480f3891fe4ad28beea150adb6fa8386f6626094266f
+hash: sha256:6537024bea9cf66e18213dc7479cb06eb4e2ad02991869fec5ba65bbd276bfea
